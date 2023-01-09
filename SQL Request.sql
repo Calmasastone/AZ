@@ -1,3 +1,5 @@
+* You can see SQL Screenshots what I have also uploaded to GIT for better understanding 
+
 -- Let's look at our tables. I use 'rownum <= 1' to not to load DB too much
 Select * From EMPLOYEES 
 Where rownum <= 1;
