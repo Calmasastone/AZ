@@ -1,4 +1,4 @@
-* You can see SQL Screenshots what I have also uploaded to GIT for better understanding 
+-- You can also look at SQL1, SQL2, SQL3 Screenshots for better understanding 
 
 -- Let's look at our tables. I use 'rownum <= 1' to not to load DB too much
 Select * From EMPLOYEES 
