@@ -1,0 +1,1 @@
+Select * From AZ_TEST_VIEW1
